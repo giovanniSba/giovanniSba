@@ -1,6 +1,6 @@
 # Hi there, I'm Giovanni! 👋
 
-Welcome to my GitHub profile. I am a developer and student at the University of Trento. Here are some of my main projects.
+Welcome to my GitHub profile. I am a developer and student at the University of Trento.
 
 ### 🚀 Highlighted Projects
 
