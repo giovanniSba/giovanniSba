@@ -26,4 +26,4 @@ Here are some of the projects I'm most proud of:
 - **Email**: [giovanni.sbalchiero@ikmail.com](mailto:giovanni.sbalchiero@ikmail.com)
 
 ---
-*Always eager to learn new technologies and collaborate on interesting projects*
+*Always eager to learn new technologies and collaborate on interesting projects.*
